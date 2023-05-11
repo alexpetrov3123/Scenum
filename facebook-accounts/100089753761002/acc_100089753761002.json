@@ -201,5 +201,6 @@
 		"Sandboarding",
 		"Types of restaurant"
 	],
-	"isAdsAvailable": false
+	"isAdsAvailable": false,
+	"adsPreferences": []
 }
