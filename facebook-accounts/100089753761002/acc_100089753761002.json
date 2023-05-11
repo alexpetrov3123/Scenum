@@ -129,5 +129,17 @@
 			"value": "1920x969"
 		}
 	],
-	"bmInfo": []
+	"bmInfo": [],
+	"funPagesInfo": [
+		{
+			"name": "Stunning co2",
+			"url": "https://www.facebook.com/100090193920782",
+			"id": "100090193920782"
+		},
+		{
+			"name": "Comely pi4",
+			"url": "https://www.facebook.com/100090999754767",
+			"id": "100090999754767"
+		}
+	]
 }
