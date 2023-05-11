@@ -2,7 +2,7 @@
 	"sn": "facebook",
 	"login": "downfolcacen331@mail.ru",
 	"password": "8HO!d^mIj3",
-	"lastEventDate": "11.05.2023 12:55 check acc1",
+	"lastEventDate": "11.05.2023 13:04 check acc1",
 	"status": 2,
 	"id": "100089753761002",
 	"name": "",
@@ -203,5 +203,6 @@
 	],
 	"isAdsAvailable": false,
 	"adsPreferences": [],
-	"rfa": false
+	"rfa": false,
+	"friendsSuggestions": true
 }
