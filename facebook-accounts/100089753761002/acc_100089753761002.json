@@ -202,5 +202,6 @@
 		"Types of restaurant"
 	],
 	"isAdsAvailable": false,
-	"adsPreferences": []
+	"adsPreferences": [],
+	"rfa": false
 }
