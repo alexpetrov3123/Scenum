@@ -22,3 +22,11 @@ E-mail:
 Cookies: [{"domain":".facebook.com","expirationDate":1718951492.933547,"hostOnly":false,"httpOnly":true,"name":"datr","path":"/","sameSite":"unspecified","secure":true,"session":false,"storeId":"0","value":"P8ZlZJRclmViUOSh-GpUP_uQ"}]
 2FA: 
 BD:
+Id account: undefined
+ФИО: 
+Login: 
+Pass: 
+E-mail: 
+Cookies: [{"domain":".facebook.com","expirationDate":1718952031.452014,"hostOnly":false,"httpOnly":true,"name":"datr","path":"/","sameSite":"unspecified","secure":true,"session":false,"storeId":"0","value":"WchlZCvoSgBKTikDfijatObX"}]
+2FA: 
+BD:
